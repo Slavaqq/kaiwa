@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<nav><a lang="ja" href="{{ '/' | relative_url }}">日本語の会話</a></nav>
+<header><p class="draft">Testovací obsah</p>
+<h1 lang="ja"><time datetime="{{ page.conversation_date | escape }}">{{ page.title | escape }}</time></h1>
+{% if page.note and page.note != '' %}<p class="conversation-note">{{ page.note | escape }}</p>{% endif %}
+</header>
+<div class="vocabulary">{{ content }}</div>
+<footer>Slovníková hesla: <a href="https://jisho.org/">Jisho.org</a> / JMdict.</footer>

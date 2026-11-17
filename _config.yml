@@ -1,0 +1,8 @@
+title: 日本語の会話
+url: https://slavaqq.github.io
+baseurl: /kaiwa
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
