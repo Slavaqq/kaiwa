@@ -4,7 +4,7 @@ Statický web sestavovaný z Markdownu pomocí Jekyllu na GitHub Pages.
 
 ## Úprava zápisu
 
-Otevři `konverzace/2026-11-02.md` a klikni na tužku (Edit).
+Otevři `posts/2026-11-02.md` a klikni na tužku (Edit).
 
 - `title`: japonský nadpis stránky, odkaz v přehledu i název záložky.
 - `conversation_date`: datum konverzace ve formátu RRRR-MM-DD.
