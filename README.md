@@ -6,7 +6,7 @@ Statický web sestavovaný z Markdownu pomocí Jekyllu na GitHub Pages.
 
 ## Úprava zápisu
 
-Otevři `posts/2026-11-02.md` a klikni na tužku (Edit).
+Otevři `posts/2026-10-19.md` a klikni na tužku (Edit).
 
 - `title`: japonský nadpis stránky, odkaz v přehledu i název záložky.
 - `conversation_date`: datum konverzace ve formátu RRRR-MM-DD.
@@ -18,4 +18,4 @@ Nový zápis lze přidat zkopírováním souboru a úpravou data, titulku a perm
 
 Po uložení do větve `main` GitHub Pages automaticky přegeneruje web. V repozitáři se neukládá vygenerované HTML; `_layouts/` obsahuje pouze společné šablony a `assets/style.css` vzhled. Web nepoužívá JavaScript.
 
-Současný zápis je testovací obsah. Původní osobní web není tímto repozitářem upravován.
+Původní osobní web není tímto repozitářem upravován.
