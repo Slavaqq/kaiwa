@@ -1,3 +1,5 @@
+[Otevřít web – 日本語の会話](https://slavaqq.github.io/kaiwa/)
+
 # 日本語の会話
 
 Statický web sestavovaný z Markdownu pomocí Jekyllu na GitHub Pages.
